@@ -27,4 +27,3 @@ class Solution(object):
                     farthest = j + nums[i+j]
             i = i + k
         return True
-                
