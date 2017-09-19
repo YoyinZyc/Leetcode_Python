@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="Array" />
     <orderEntry type="module" module-name="Math" />
     <orderEntry type="module" module-name="Top_Interview" />
+    <orderEntry type="module" module-name="SortsCollection" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
