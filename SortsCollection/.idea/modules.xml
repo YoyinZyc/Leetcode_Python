@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../BFS/.idea/BFS.iml" filepath="$PROJECT_DIR$/../BFS/.idea/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DynamicProgramming/.idea/DynamicProgramming.iml" filepath="$PROJECT_DIR$/../DynamicProgramming/.idea/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Math/.idea/Math.iml" filepath="$PROJECT_DIR$/../Math/.idea/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Sort/.idea/Sort.iml" filepath="$PROJECT_DIR$/../Sort/.idea/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SortsCollection.iml" filepath="$PROJECT_DIR$/.idea/SortsCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TopLiked/.idea/TopLiked.iml" filepath="$PROJECT_DIR$/../TopLiked/.idea/TopLiked.iml" />
     </modules>
   </component>
 </project>
