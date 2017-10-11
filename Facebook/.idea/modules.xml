@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../3D-Reconstruction/.idea/3D-Object-Classification-via-MVCNN.iml" filepath="$PROJECT_DIR$/../../3D-Reconstruction/.idea/3D-Object-Classification-via-MVCNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Amazon/.idea/Amazon.iml" filepath="$PROJECT_DIR$/../Amazon/.idea/Amazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/../BitManipulation/.idea/BitManipulation.iml" filepath="$PROJECT_DIR$/../BitManipulation/.idea/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bit_Manipulation/.idea/Bit_Manipulation.iml" filepath="$PROJECT_DIR$/../Bit_Manipulation/.idea/Bit_Manipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Facebook.iml" filepath="$PROJECT_DIR$/.idea/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Google/.idea/Google.iml" filepath="$PROJECT_DIR$/../Google/.idea/Google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ML_HW2/.idea/ML_HW2.iml" filepath="$PROJECT_DIR$/../ML_HW2/.idea/ML_HW2.iml" />
     </modules>
   </component>
 </project>

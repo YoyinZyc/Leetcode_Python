@@ -2,8 +2,13 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6.2 (/anaconda/bin/python3.6)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="BitManipulation" />
+    <orderEntry type="module" module-name="3D-Object-Classification-via-MVCNN" />
+    <orderEntry type="module" module-name="ML_HW2" />
+    <orderEntry type="module" module-name="Amazon" />
+    <orderEntry type="module" module-name="Google" />
+    <orderEntry type="module" module-name="Bit_Manipulation" />
   </component>
 </module>
