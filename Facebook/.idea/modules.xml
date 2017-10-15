@@ -8,7 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/../Bit_Manipulation/.idea/Bit_Manipulation.iml" filepath="$PROJECT_DIR$/../Bit_Manipulation/.idea/Bit_Manipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Facebook.iml" filepath="$PROJECT_DIR$/.idea/Facebook.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Google/.idea/Google.iml" filepath="$PROJECT_DIR$/../Google/.idea/Google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LinkedIn/.idea/LinkedIn.iml" filepath="$PROJECT_DIR$/../LinkedIn/.idea/LinkedIn.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ML_HW2/.idea/ML_HW2.iml" filepath="$PROJECT_DIR$/../ML_HW2/.idea/ML_HW2.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/Machine-Learning/.idea/Machine-Learning.iml" filepath="$USER_HOME$/Documents/GitHub/Machine-Learning/.idea/Machine-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Top_Interview/.idea/Top_Interview.iml" filepath="$PROJECT_DIR$/../Top_Interview/.idea/Top_Interview.iml" />
     </modules>
   </component>
 </project>

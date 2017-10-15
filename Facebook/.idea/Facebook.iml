@@ -10,5 +10,8 @@
     <orderEntry type="module" module-name="Amazon" />
     <orderEntry type="module" module-name="Google" />
     <orderEntry type="module" module-name="Bit_Manipulation" />
+    <orderEntry type="module" module-name="Machine-Learning" />
+    <orderEntry type="module" module-name="LinkedIn" />
+    <orderEntry type="module" module-name="Top_Interview" />
   </component>
 </module>
