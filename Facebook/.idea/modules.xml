@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../3D-Reconstruction/.idea/3D-Object-Classification-via-MVCNN.iml" filepath="$PROJECT_DIR$/../../3D-Reconstruction/.idea/3D-Object-Classification-via-MVCNN.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/615def9e197d5db04bef-c52e123ba3de78a5ae11bbaa4cd826207044f29c/.idea/615def9e197d5db04bef-c52e123ba3de78a5ae11bbaa4cd826207044f29c.iml" filepath="$USER_HOME$/Downloads/615def9e197d5db04bef-c52e123ba3de78a5ae11bbaa4cd826207044f29c/.idea/615def9e197d5db04bef-c52e123ba3de78a5ae11bbaa4cd826207044f29c.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Amazon/.idea/Amazon.iml" filepath="$PROJECT_DIR$/../Amazon/.idea/Amazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/../BitManipulation/.idea/BitManipulation.iml" filepath="$PROJECT_DIR$/../BitManipulation/.idea/BitManipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Bit_Manipulation/.idea/Bit_Manipulation.iml" filepath="$PROJECT_DIR$/../Bit_Manipulation/.idea/Bit_Manipulation.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/../LinkedIn/.idea/LinkedIn.iml" filepath="$PROJECT_DIR$/../LinkedIn/.idea/LinkedIn.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ML_HW2/.idea/ML_HW2.iml" filepath="$PROJECT_DIR$/../ML_HW2/.idea/ML_HW2.iml" />
       <module fileurl="file://$USER_HOME$/Documents/GitHub/Machine-Learning/.idea/Machine-Learning.iml" filepath="$USER_HOME$/Documents/GitHub/Machine-Learning/.idea/Machine-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tiling Puzzle Solver/.idea/Tiling Puzzle Solver.iml" filepath="$PROJECT_DIR$/../Tiling Puzzle Solver/.idea/Tiling Puzzle Solver.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Top_Interview/.idea/Top_Interview.iml" filepath="$PROJECT_DIR$/../Top_Interview/.idea/Top_Interview.iml" />
     </modules>
   </component>

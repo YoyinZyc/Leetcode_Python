@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/3d reconstruct/P2/3D_project2/.idea/3D_project2.iml" filepath="$USER_HOME$/Desktop/3d reconstruct/P2/3D_project2/.idea/3D_project2.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/.idea/HW3.iml" filepath="$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/.idea/HW3.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Machine-Learning/In-Class7/.idea/In-Class7.iml" filepath="$USER_HOME$/Desktop/Machine-Learning/In-Class7/.idea/In-Class7.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Yz2mf_ML_HW2/.idea/ML_HW2.iml" filepath="$USER_HOME$/Desktop/Yz2mf_ML_HW2/.idea/ML_HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Microsoft/.idea/Microsoft.iml" filepath="$PROJECT_DIR$/../Microsoft/.idea/Microsoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SortsCollection/.idea/SortsCollection.iml" filepath="$PROJECT_DIR$/../SortsCollection/.idea/SortsCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tiling Puzzle Solver/.idea/Tiling Puzzle Solver.iml" filepath="$PROJECT_DIR$/../Tiling Puzzle Solver/.idea/Tiling Puzzle Solver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Top_Interview.iml" filepath="$PROJECT_DIR$/.idea/Top_Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Uber/.idea/Uber.iml" filepath="$PROJECT_DIR$/../Uber/.idea/Uber.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Machine-Learning/project/project/.idea/project.iml" filepath="$USER_HOME$/Desktop/Machine-Learning/project/project/.idea/project.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/opencv-master/samples/.idea/samples.iml" filepath="$USER_HOME$/Downloads/opencv-master/samples/.idea/samples.iml" />
     </modules>
   </component>
 </project>

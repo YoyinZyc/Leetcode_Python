@@ -48,6 +48,48 @@ class Solution(object):
 
 
 
-        # if __name__ == '__main__':
-        #     s = Solution()
-        #     s.ladderLength("hit","cog",["hot","dot","dog","lot","log","cog"])
+# 双向DFS
+class Solution:
+    def ladderLength(self, beginWord, endWord, wordList):
+        """
+        :type beginWord: str
+        :type endWord: str
+        :type wordList: List[str]
+        :rtype: int
+        """
+        if endWord not in wordList:
+            return 0
+        beginSet = set()
+        endSet = set()
+        visited = set()
+        beginSet.add(beginWord)
+        endSet.add(endWord)
+        alp = 'abcdefghijklmnopqrstuvwxyz'
+        length = 1
+        while beginSet and endSet:
+            if len(beginSet) > len(endSet):
+                swap = beginSet
+                beginSet = endSet
+                endSet = swap
+
+            temp = set()
+            for word in beginSet:
+                for i in range(len(word)):
+                    for v in alp:
+                        findWord = word[:i] + v + word[i + 1:]
+                        if findWord in endSet:
+                            return length + 1
+
+                        if findWord not in visited and findWord in wordList:
+                            temp.add(findWord)
+                            visited.add(findWord)
+            beginSet = temp
+            length += 1
+        return 0
+
+
+if __name__ == '__main__':
+    s = Solution()
+    s.ladderLength("hit",
+"cog",
+["hot","dot","dog","lot","log"])

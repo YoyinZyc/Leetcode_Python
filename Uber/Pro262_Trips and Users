@@ -1,0 +1,17 @@
+--Uber_Hard
+--10.29 6:34pm
+
+--# Write your MySQL query statement below
+select t3.Request_at as Day,
+Round((1-(select count(t1.Id)
+from Trips t1, Users u1
+where t1.Client_Id = u1.Users_Id and u1.Banned = 'No' and u1.Role = 'client' and t1.Status = 'completed' and t3.Request_at = t1.Request_at
+)
+/
+(select count(t2.Id)
+from Trips t2, Users u2
+where t2.Client_Id = u2.Users_Id and u2.Banned = 'No' and u2.Role = 'client' and t3.Request_at = t2.Request_at
+)),2) as "Cancellation Rate"
+from Trips t3
+where date(t3.Request_at) between '2013-10-01' and '2013-10-03'
+group by t3.Request_at

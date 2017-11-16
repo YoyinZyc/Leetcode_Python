@@ -2,10 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7931be90-c5be-42c6-b43b-bc7dd08241cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BFS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/BFS/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/K_Nearest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro1001_BST to sorted circular double LinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro123_Best Time to Buy and Sell Stock III.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro128_Longest Consecutive Sequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro12_Integer_To_Roman.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro139. Word Break.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro146_LRU_Cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro158. Read N Characters Given Read4 II - Call multiple times.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro15_3_Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro161. One Edit Distance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro180Consecutive Numbers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro188_Best Time to Buy and Sell Stock IV.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro211. Add and Search Word - Data structure design.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro218_The Skyline Problem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro252_Meeting_Rooms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro253_Meeting_Rooms||.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro259. 3Sum Smaller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro274_H_Index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro282. Expression Add Operators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro283_Move_Zeros.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro285_Inorder Successor in BST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro286_Walls_And_Gates.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro29_Divide_Two_Integer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro301_Remove_Invalid_Parentheses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro308. Range Sum Query 2D - Mutable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro311_Sparse Matrix Multiplication.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro314_Binary Tree Vertical Order Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro325. Maximum Size Subarray Sum Equals k.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro348. Design Tic-Tac-Toe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro381. Insert Delete GetRandom O(1) - Duplicates allowed.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro393. UTF-8 Validation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro398_Random_Pick_Index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro415. Add Strings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro44. Wildcard Matching.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro47_PermutationsII.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro51_N_Queens.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro523. Continuous Subarray Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro52_N_QueueII.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro554_Brick_Wall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro57_Insert_Interval.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro597. Friend Requests I: Overall Acceptance Rate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro602. Friend Requests II: Who Has the Most Friends" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro621_Task_Schedule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro639. Decode Ways II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro640_Solve_Equation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro654. Maximum Binary Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro65_Valid_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro670. Maximum Swap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro678_Valid Parenthesis String.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro680_Valid Palindrome II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro689. Maximum Sum of 3 Non-Overlapping Subarrays.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro76_Minimum_Window.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro79. Word Search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro93. Restore IP Addresses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/Pro9_Palindrome Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/extra1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Leetcode_Python.iml" afterPath="$PROJECT_DIR$/.idea/Leetcode_Python.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BitManipulation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/BitManipulation/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/.idea/Facebook.iml" afterPath="$PROJECT_DIR$/Facebook/.idea/Facebook.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/.idea/modules.xml" afterPath="$PROJECT_DIR$/Facebook/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Facebook/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/Pro127_Word_Ladder.py" afterPath="$PROJECT_DIR$/Facebook/Pro127_Word_Ladder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/Pro43_Multipy_Strings.py" afterPath="$PROJECT_DIR$/Facebook/Pro43_Multipy_Strings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SortsCollection/main.py" afterPath="$PROJECT_DIR$/SortsCollection/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Top_Interview/.idea/Top_Interview.iml" afterPath="$PROJECT_DIR$/Top_Interview/.idea/Top_Interview.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Top_Interview/.idea/modules.xml" afterPath="$PROJECT_DIR$/Top_Interview/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Top_Interview/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Top_Interview/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Top_Interview/Pro191_Number_of_1_Bits.py" afterPath="$PROJECT_DIR$/Top_Interview/Pro191_Number_of_1_Bits.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,18 +84,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HeapSort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SortsCollection/HeapSort.py">
+      <file leaf-file-name="Pro274_H_Index.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/Pro274_H_Index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertionSort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SortsCollection/InsertionSort.py">
+      <file leaf-file-name="Pro43_Multipy_Strings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/Pro43_Multipy_Strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pro47_PermutationsII.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/Pro47_PermutationsII.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pro146_LRU_Cache.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/Pro146_LRU_Cache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SortsCollection/QuickSort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -36,23 +134,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SortsCollection/main.py">
+      <file leaf-file-name="Pro1001_BST to sorted circular double LinkedList.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/Pro1001_BST to sorted circular double LinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="480">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SortsCollection/BubbleSort.py">
+      <file leaf-file-name="decision_tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/decision_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hw.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/hw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="767">
+              <caret line="177" column="32" lean-forward="false" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="knn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework2/Yz2mf_ML_HW2/knn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Facebook/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -60,21 +186,82 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pyr</find>
+      <find>rate</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SortsCollection/HeapSort.py" />
-        <option value="$PROJECT_DIR$/SortsCollection/main.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro139. Word Break.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro282. Expression Add Operators.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro  Add to List 29. Divide Two Integers.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro29_Divide_Two_Integer.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro670. Maximum Swap.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro654. Maximum Binary Tree.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro415. Add Strings.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro640_Solve_Equation.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro393. UTF-8 Validation.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro381. Insert Delete GetRandom O(1) - Duplicates allowed.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro51_N_Queens.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro51_N_QueueII.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro65_Valid_Number.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro79. Word Search.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro93. Restore IP Addresses.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro211. Add and Search Word - Data structure design.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro188_Best Time to Buy and Sell Stock IV.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro314_Binary Tree Vertical Order Traversal.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro325. Maximum Size Subarray Sum Equals k.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro259. 3Sum Smaller.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro285_Inorder Successor in BST.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro348. Design Tic-Tac-Toe.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro308. Range Sum Query 2D - Mutable.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro158. Read N Characters Given Read4 II - Call multiple times.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro689. Maximum Sum of 3 Non-Overlapping Subarrays.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro554_Brick_Wall.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro127_Word_Ladder.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro523. Continuous Subarray Sum.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro398_Random_Pick_Index.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro57_Insert_Interval.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro44. Wildcard Matching.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro597. Friend Requests I: Overall Acceptance Rate" />
+        <option value="$PROJECT_DIR$/Facebook/Pro602. Friend Requests II: Who Has the Most Friends.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro602. Friend Requests II: Who Has the Most Friends" />
+        <option value="$PROJECT_DIR$/Facebook/Pro218_The Skyline Problem.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro128_Longest Consecutive Sequence.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro161. One Edit Distance.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro286_Walls_And_Gates.py" />
+        <option value="$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/feature_selection.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro283_Move_Zeros.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro15_3_Sum.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro311_Sparse Matrix Multiplication.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro621_Task_Schedule.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro76_Minimum_Window.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro274_H_Index.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro43_Multipy_Strings.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro47_PermutationsII.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro146_LRU_Cache.py" />
+        <option value="$PROJECT_DIR$/Facebook/Pro1001_BST to sorted circular double LinkedList.py" />
+        <option value="$PROJECT_DIR$/Facebook/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -94,7 +281,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,22 +292,7 @@
             <path>
               <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Backtracking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="BFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Greedy" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -129,19 +301,26 @@
             </path>
             <path>
               <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="SortsCollection" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="3D_project2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yz2mf_ML_HW2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,27 +334,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Pro128_Longest Consecutive Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortsCollection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Facebook" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortsCollection/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Facebook/Pro128_Longest Consecutive Sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="Pro15_3_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Facebook/Pro15_3_Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Pro283_Move_Zeros" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Facebook/Pro283_Move_Zeros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Pro76_Minimum_Window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Facebook/Pro76_Minimum_Window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Facebook/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Pro128_Longest Consecutive Sequence" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Pro283_Move_Zeros" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Pro15_3_Sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Pro76_Minimum_Window" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Pro76_Minimum_Window" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Pro15_3_Sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Pro283_Move_Zeros" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Pro128_Longest Consecutive Sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -193,19 +451,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18025751" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -220,19 +477,280 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/K_Nearest.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro252_Meeting_Rooms.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro9_Palindrome Number.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/extra1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro123_Best Time to Buy and Sell Stock III.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro282. Expression Add Operators.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro29_Divide_Two_Integer.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro640_Solve_Equation.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro188_Best Time to Buy and Sell Stock IV.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro188_Best Time to Buy and Sell Stock IV.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro314_Binary Tree Vertical Order Traversal.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro554_Brick_Wall.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro554_Brick_Wall.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro523. Continuous Subarray Sum.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro218_The Skyline Problem.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro218_The Skyline Problem.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro128_Longest Consecutive Sequence.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facebook/Pro76_Minimum_Window.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="63" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SortsCollection/HeapSort.py">
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro393. UTF-8 Validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro381. Insert Delete GetRandom O(1) - Duplicates allowed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro51_N_Queens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro52_N_QueueII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro65_Valid_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro85_Maximum_Rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro79. Word Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro93. Restore IP Addresses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uber/Pro133_Clone_Graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uber/Pro516_Longest_Palindromic_Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uber/Pro690_Employee_Importance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro211. Add and Search Word - Data structure design.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro123_Best Time to Buy and Sell Stock III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SortsCollection/InsertionSort.py">
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro188_Best Time to Buy and Sell Stock IV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro314_Binary Tree Vertical Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro325. Maximum Size Subarray Sum Equals k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro259. 3Sum Smaller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro285_Inorder Successor in BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro348. Design Tic-Tac-Toe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro308. Range Sum Query 2D - Mutable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="80" column="18" lean-forward="false" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro158. Read N Characters Given Read4 II - Call multiple times.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro689. Maximum Sum of 3 Non-Overlapping Subarrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro554_Brick_Wall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro127_Word_Ladder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro523. Continuous Subarray Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -240,33 +758,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SortsCollection/BubbleSort.py">
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro398_Random_Pick_Index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="32">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro57_Insert_Interval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro44. Wildcard Matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro597. Friend Requests I: Overall Acceptance Rate">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro180Consecutive Numbers">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro602. Friend Requests II: Who Has the Most Friends.py" />
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro602. Friend Requests II: Who Has the Most Friends">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro128_Longest Consecutive Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SortsCollection/main.py">
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro218_The Skyline Problem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SortsCollection/BubbleSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SortsCollection/InsertionSort.py">
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro161. One Edit Distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro286_Walls_And_Gates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro283_Move_Zeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro15_3_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro311_Sparse Matrix Multiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro621_Task_Schedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro76_Minimum_Window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro274_H_Index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro43_Multipy_Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro47_PermutationsII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro146_LRU_Cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SortsCollection/QuickSort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -274,7 +910,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SortsCollection/HeapSort.py">
+    <entry file="file://$PROJECT_DIR$/Facebook/Pro1001_BST to sorted circular double LinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -282,13 +918,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SortsCollection/main.py">
+    <entry file="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/decision_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/hw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="177" column="32" lean-forward="false" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework2/Yz2mf_ML_HW2/knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>

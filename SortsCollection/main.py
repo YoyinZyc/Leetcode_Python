@@ -5,9 +5,10 @@ import InsertionSort
 import HeapSort
 import MergeSort
 import QuickSort
+import RadixSort
 
 if __name__ == '__main__':
-    l = [2,3,5,1,6,7]
+    l = [50, 123, 543, 187, 49, 30, 0, 2, 11, 100]
     # bubbleSort = BubbleSort.BubbleSort(l)
     # bubbleSort.sort()
     # OddEvenSort.sort(l)
@@ -15,4 +16,5 @@ if __name__ == '__main__':
     # InsertionSort.sort(l)
     # HeapSort.sort(l)
     # MergeSort.sort(l)
-    QuickSort.sort(l)
+    # QuickSort.sort(l)
+    RadixSort.sort(l)

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/3d reconstruct/P2/3D_project2/.idea/3D_project2.iml" filepath="$USER_HOME$/Desktop/3d reconstruct/P2/3D_project2/.idea/3D_project2.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/.idea/HW3.iml" filepath="$USER_HOME$/Desktop/Machine-Learning/homework/homework3/HW3/.idea/HW3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode_Python.iml" filepath="$PROJECT_DIR$/.idea/Leetcode_Python.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Machine-Learning/homework/homework2/Yz2mf_ML_HW2/.idea/ML_HW2.iml" filepath="$USER_HOME$/Desktop/Machine-Learning/homework/homework2/Yz2mf_ML_HW2/.idea/ML_HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tiling Puzzle Solver/.idea/Tiling Puzzle Solver.iml" filepath="$PROJECT_DIR$/Tiling Puzzle Solver/.idea/Tiling Puzzle Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Top_Interview/.idea/Top_Interview.iml" filepath="$PROJECT_DIR$/Top_Interview/.idea/Top_Interview.iml" />
     </modules>
   </component>
 </project>

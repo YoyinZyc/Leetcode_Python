@@ -4,5 +4,15 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.6.2 (/anaconda/bin/python3.6)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Tiling Puzzle Solver" />
+    <orderEntry type="module" module-name="In-Class7" />
+    <orderEntry type="module" module-name="3D_project2" />
+    <orderEntry type="module" module-name="samples" />
+    <orderEntry type="module" module-name="ML_HW2" />
+    <orderEntry type="module" module-name="HW3" />
+    <orderEntry type="module" module-name="project" />
+    <orderEntry type="module" module-name="Uber" />
+    <orderEntry type="module" module-name="SortsCollection" />
+    <orderEntry type="module" module-name="Microsoft" />
   </component>
 </module>
