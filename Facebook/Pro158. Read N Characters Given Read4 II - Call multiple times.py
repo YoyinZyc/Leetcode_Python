@@ -37,6 +37,7 @@ class Solution(object):
                     self.q.append(temp[j])
                     j += 1
                 return n
+            # 如果get_read的长度比4小说明已经读到头了，加上这部分后直接返回，如果不处理就会死循环
             if get_read < 4:
                 j = 0
                 while j < get_read:

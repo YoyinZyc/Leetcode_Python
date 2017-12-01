@@ -1,8 +1,3 @@
-
-'''
-Facebook_Medium
-10.8 9:53am
-'''
 class Solution(object):
     def numDecodings(self, s):
         """
@@ -13,21 +8,23 @@ class Solution(object):
             return 0
         if s[0] == '0':
             return 0
-        record = [0 for _ in range(len(s) + 1)]
-        record[0] = 1
-        record[1] = 1
-        i = 2
-        while i < len(s) + 1:
-            if s[i - 1] == '0':
-                if 10 <= int(s[i - 2] + s[i - 1]) <= 26:
-                    record[i] = record[i - 2]
+        # prev of prev
+        a = 1
+        #       prev
+        b = 1
+        i = 1
+        while i < len(s):
+            # 如果当前是0，则前一个必须是1或者2，否则返回0
+            if s[i] == '0':
+                if s[i - 1] == '1' or s[i - 1] == '2':
+                    b, a = a, b
                 else:
                     return 0
             else:
-                if 11 <= int(s[i - 2] + s[i - 1]) <= 26:
-                    record[i] = record[i - 1] + record[i - 2]
+                if 11 <= int(s[i - 1] + s[i]) <= 26:
+                    b, a = a + b, b
                 else:
-                    record[i] = record[i - 1]
+                    a, b = b, b
             i += 1
-        return record[-1]
+        return b
 

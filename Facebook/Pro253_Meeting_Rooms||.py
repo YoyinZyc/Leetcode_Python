@@ -1,14 +1,10 @@
-'''
-Facebook_Medium
-11.2 1:29pm
-'''
 # Definition for an interval.
-# class Interval(object):
+# class Interval:
 #     def __init__(self, s=0, e=0):
 #         self.start = s
 #         self.end = e
 from queue import PriorityQueue
-class Solution(object):
+class Solution:
     def minMeetingRooms(self, intervals):
         """
         :type intervals: List[Interval]
@@ -16,17 +12,16 @@ class Solution(object):
         """
         if not intervals:
             return 0
-        count = 1
+        intervals.sort(key = lambda x:x.start)
         q = PriorityQueue()
-        q2 = PriorityQueue()
-        for i in intervals:
-            q.put((i.start, i.end))
-        while not q.empty():
-            i = q.get()
-            if not q2.empty():
-                end = q2.get()
-                if i[0] < end:
-                    q2.put(end)
-                    count += 1
-            q2.put(i[1])
+        count = 1
+        for v in intervals:
+            if q.empty():
+                q.put(v.end)
+            else:
+                q.put(v.end)
+                peek = q.get()
+                if v.start<peek:
+                    q.put(peek)
+                    count+=1
         return count

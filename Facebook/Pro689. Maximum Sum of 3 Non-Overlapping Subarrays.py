@@ -44,6 +44,7 @@ class Solution:
                 bestSeqSum = seqSum
 
             # Update best two windows
+            # 只有当两个加起来比之前大的时候才改变，不用担心重合
             if seqTwoSum + bestSeqSum > bestTwoSum:
                 bestTwoSeq = [bestSeq, twoSeqIndex]
                 bestTwoSum = seqTwoSum + bestSeqSum
@@ -59,7 +60,9 @@ class Solution:
             threeSeqIndex += 1
 
         return bestThreeSeq
-
+if __name__ == '__main__':
+    s = Solution()
+    s.maxSumOfThreeSubarrays([1,2,3,4,8,9,2,7,1,5],3)
 
 # 方法2
 class Solution(object):

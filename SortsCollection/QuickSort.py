@@ -18,29 +18,43 @@ def sort(l):
     quickSort(l,0,len(l)-1)
     print(l)
 def quickSort(l, start, end):
-    if end > start:
-        pivot = l[end]
-        j = start
-        i = start
-        while i < end:
-            while j < end and l[j]<=pivot:
-                j+=1
-            if j == end:
-                break
-            if j == end-1:
-
-                break
-
-            i = max(j+1,i)
-            if l[i] <= pivot:
-
-                temp = l[i]
-                l[i] = l[j]
-                l[j] = temp
-                j+=1
-            i+=1
-        temp = l[j]
-        l[j] = l[end]
-        l[end] = temp
-        quickSort(l, start, j-1)
-        quickSort(l, j+1,end)
+    if start >= end:
+        return
+    low = start
+    high = end
+    pivot = l[end]
+    while start < end:
+        if l[start] > pivot:
+            end-=1
+            l[start], l[end] = l[end], l[start]
+        else:
+            start+=1
+    l[start], l[high] = l[high], l[start]
+    quickSort(l, low, start-1)
+    quickSort(l, start+1, high)
+    # if end > start:
+    #     pivot = l[end]
+    #     j = start
+    #     i = start
+    #     while i < end:
+    #         while j < end and l[j]<=pivot:
+    #             j+=1
+    #         if j == end:
+    #             break
+    #         if j == end-1:
+    #
+    #             break
+    #
+    #         i = max(j+1,i)
+    #         if l[i] <= pivot:
+    #
+    #             temp = l[i]
+    #             l[i] = l[j]
+    #             l[j] = temp
+    #             j+=1
+    #         i+=1
+    #     temp = l[j]
+    #     l[j] = l[end]
+    #     l[end] = temp
+    #     quickSort(l, start, j-1)
+    #     quickSort(l, j+1,end)

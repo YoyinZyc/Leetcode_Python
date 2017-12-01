@@ -16,5 +16,5 @@ if __name__ == '__main__':
     # InsertionSort.sort(l)
     # HeapSort.sort(l)
     # MergeSort.sort(l)
-    # QuickSort.sort(l)
-    RadixSort.sort(l)
+    QuickSort.sort(l)
+    # RadixSort.sort(l)

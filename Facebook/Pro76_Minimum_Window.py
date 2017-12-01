@@ -30,4 +30,8 @@ class Solution:
         if min_window == float('inf'):
             return ''
         return s[head:head + min_window]
+if __name__ == '__main__':
+    s = Solution()
+    res = s.minWindow('ADOBEBANCCBODE', 'ABC')
+    print(res)
 

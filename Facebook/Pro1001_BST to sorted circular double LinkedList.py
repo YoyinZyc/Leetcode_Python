@@ -9,12 +9,16 @@ def merge(left,right):
         return right
     if not right:
         return left
+    # 两个nodelist的最右边
     right_last = right.left
-    left_last = left.right
-
+    left_last = left.left
+    # left的最右边的right是right
     left_last.right = right
+    # right最右边的right是left
     right_last.right = left
+    # right的最左边是left的最右边
     right.left = left_last
+    # left的左边是right的最右边
     left.left = right_last
 
     return left

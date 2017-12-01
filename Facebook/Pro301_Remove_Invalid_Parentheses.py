@@ -41,6 +41,7 @@ class Solution:
     def follow_up(self, s):
         count = 0
         i = 0
+        # left -> right
         while i < len(s):
             if s[i] == '(':
                 count += 1
@@ -56,6 +57,7 @@ class Solution:
                 count = 0
         if count == 0:
             return s
+        # right->left
         if count > 0:
             count = 0
             s = s[::-1]
@@ -105,4 +107,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print(s.follow_up(")())()("))
+    print(s.removeInvalidParentheses("())(()"))

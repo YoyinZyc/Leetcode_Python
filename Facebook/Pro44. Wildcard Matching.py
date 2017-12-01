@@ -56,3 +56,6 @@ class Solution(object):
         while p_i < len(p) and p[p_i] == '*':
             p_i += 1
         return p_i == len(p)
+if __name__ == '__main__':
+    s = Solution()
+    s.isMatch('iecdfide', 'i*de')

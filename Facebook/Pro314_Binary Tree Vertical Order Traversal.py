@@ -17,8 +17,6 @@ def verticalOrder(self, root):
 
 # 方法二 自己构造双向链表
 from collections import deque
-
-
 class Solution:
     def verticalOrder(self, root):
         """

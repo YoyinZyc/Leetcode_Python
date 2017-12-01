@@ -37,6 +37,8 @@ class Solution:
                 record[remain] = [i]
         return False
 
-
+if __name__ == '__main__':
+    s = Solution()
+    print(s.checkSubarraySum([-2, -2, 8],6))
 
 
