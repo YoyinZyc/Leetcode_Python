@@ -9,6 +9,9 @@
     <orderEntry type="module" module-name="3D_project2" />
     <orderEntry type="module" module-name="HW3" />
     <orderEntry type="module" module-name="ML_HW2" />
+    <orderEntry type="module" module-name="TilingPuzzle" />
+    <orderEntry type="module" module-name="Tiling Puzzle Solver" />
+    <orderEntry type="module" module-name="Alg" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

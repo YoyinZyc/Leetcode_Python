@@ -62,10 +62,10 @@ class DLX(object):
             # self.count_one.append(head_right.count)
             # self.headers.append(head_right)
         self.headers = self.headers[:self.board.area]
-        t0 = time.time()
+        self.t0 = time.time()
         self.solutions = self.dancing1(Head)
         t1 = time.time()
-        print("It cost %f sec" % (t1-t0))
+        print("It cost %f sec" % (t1-self.t0))
         print(self.solutions)
         print(len(self.solutions))
         # print(self.dancing(Head))
@@ -220,6 +220,8 @@ class DLX(object):
 
             if Head.right == Head:
                 solutions.append(ans_copy)
+                t2 = time.time()
+                print("It cost %f sec" % (t2 - self.t0))
                 self.resume(recover_q.pop())
                 row = row.down
                 row_q[-1] = row

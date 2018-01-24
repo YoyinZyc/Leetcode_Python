@@ -15,3 +15,15 @@ class Solution(object):
 if __name__ == '__main__':
     s = Solution()
     print(s.fullJustify(["This", "is", "an", "example", "of", "text", "justif.", 'qwe'], 16))
+    if node:
+        l.append(node.val)
+        if flag:
+            # left->right
+            q2.append(node.left)
+            q1.append(node,right)
+            flag = False
+        else:
+            # right->left
+            q2.insert(0, node.left)
+            q2.in
+            flag = True

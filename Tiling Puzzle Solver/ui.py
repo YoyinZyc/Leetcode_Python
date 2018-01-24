@@ -340,11 +340,6 @@ class MainWindow(QWidget):
         for i in range(length):
             for j in range(width):
                 self.grids[i][j].show()
-
-
-
-
-
     def changeRotateStatus(self, state):
         if state == Qt.Checked:
             self.rotate_status = True
