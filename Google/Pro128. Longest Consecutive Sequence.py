@@ -14,6 +14,7 @@ class Solution:
         nums = set(nums)
         max_len = 0
         for x in nums:
+            # 如果有x-1在里面，会找到这个点，所以不用管
             if x-1 not in nums:
                 y = x+1
                 while y in nums:

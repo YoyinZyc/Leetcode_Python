@@ -3,6 +3,7 @@
 或者 open的 ，请找出一条path能够从start 到end。。。只找出一条即可
 
 BFS
+O(NM*4^k)
 '''
 def matrix_path(start, end, matrix):
     visited = []

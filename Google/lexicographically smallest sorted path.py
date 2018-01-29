@@ -3,6 +3,7 @@
 
 思路：
 dfs+greedy
+时间复杂度 N!
 '''
 def path(matrix):
     l = len(matrix) + len(matrix[0]) - 2

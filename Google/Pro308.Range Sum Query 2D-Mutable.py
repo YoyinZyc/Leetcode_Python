@@ -105,6 +105,7 @@ class NumMatrix:
         """
         if not matrix or not matrix[0]:
             return
+        # 因为0&-0还是0，所以要把0刨掉
         self.tree = [[0 for _ in range(len(matrix[0]) + 1)] for _ in range(len(matrix) + 1)]
 
         for i in range(len(matrix)):

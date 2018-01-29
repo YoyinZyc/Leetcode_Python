@@ -6,7 +6,7 @@
 思路：
 两个方法：
 Trie：会超时
-dict：因为word最多只有10个字符长，所以可以用；使用dict节省读取时间
+dict：因为word最多只有10个字符长，所以可以用；使用dict节省读取时间;建立所有prefix和suffix的映射
 '''
 class WordFilter(object):
 

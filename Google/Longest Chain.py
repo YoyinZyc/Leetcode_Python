@@ -7,6 +7,8 @@
 思路：
 先找到in和out的dict
 然后DFS
+
+时间复杂度 O(v+e)
 '''
 def longestChain(l):
     d_in = dict()

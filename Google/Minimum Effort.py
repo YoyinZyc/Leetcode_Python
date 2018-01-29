@@ -6,11 +6,14 @@ starting position, ending position,
 
 思路：
 DP
+record[i][j] = min(abs(m[i][j]-m[i-1][j]) + record[i-1][j], abs(m[i][j]- m[i][j-1])+record[i][j-1])
 '''
 def calMinEffort(m):
     record = [[0 for _ in range(len(m[0]))] for _ in range(len(m))]
+    # 第一行
     for i in range(1,len(m[0])):
         record[0][i] = abs(m[0][i]-m[0][i-1])+record[0][i-1]
+    # 第一列
     for i in range(1, len(m)):
         record[i][0] = abs(m[i][0]-m[i-1][0])+record[i-1][0]
     for i in range(1,len(m)):

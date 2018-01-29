@@ -29,3 +29,13 @@ class Solution:
             current = max(current - 1, nums[i])
             i += 1
         return True
+
+
+    def minJump(self, nums):
+        jumps, curEnd, curFarthest = 0,0,0
+        for i in range(len(A)-1):
+            curFarthest = max(curFarthest, i+nums[i])
+            # 直到到了这个点才能jump+1，然后进行下一步
+            if i == curEnd:
+                jumps+=1
+                curEnd = curFarthest

@@ -1,3 +1,8 @@
+'''
+
+Range sum query 2d - mutable 308*3
+二叉索引树
+'''
 class FenwickTree(object):
     def __init__(self, n):
         self.sum_array = [0] * (n + 1)
@@ -19,7 +24,7 @@ class FenwickTree(object):
         return res
 if __name__ == '__main__':
     f = FenwickTree(10)
-    f.add(0,5)
+    # f.add(0,5)
     f.add(2,7)
     f.add(1,19)
     f.sum(4)

@@ -1,3 +1,7 @@
+'''
+有一个shouldBeErased用于检查能不能erase这个node
+要求返回erase之后剩下的所有树的root
+'''
 def shouldBeErased(node):
     return True
 def EraseNode(root):
