@@ -46,15 +46,17 @@ class Solution(object):
                     right = helper(node.right, node.val - node.right.val)
                 else:
                     right = helper(node.right, 0)
-
+            # 如果没有左右节点
             if not left and not right:
                 return 1 if link else 0
+            # 没有左边，只考虑右边
             elif not left:
                 self.longest_path = max(self.longest_path, right + 1)
                 if node.val - node.right.val == link:
                     return right + 1
                 else:
                     return 1 if link else 0
+            # 没有右边，只考虑左边
             elif not right:
                 self.longest_path = max(self.longest_path, left + 1)
                 if node.val - node.left.val == link:

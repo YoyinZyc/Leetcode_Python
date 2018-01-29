@@ -28,7 +28,7 @@ class Solution(object):
             if end-start == 1:
                 return start
             ret = float('inf')
-            # 以start和end之间的每个数为mid，找最小的
+            # 以start和end之间的每个数为mid，找最小的，在哪里分两半最小
             i = start+1
             while i < end:
                 # max左右大的

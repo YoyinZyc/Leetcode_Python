@@ -3,7 +3,7 @@
 类似于Splitwise
 
 重点在于构建debit表
-时间复杂度O（n！）
+时间复杂度O（n！）backingtracking
 '''
 class Solution(object):
     def minTransfers(self, transactions):

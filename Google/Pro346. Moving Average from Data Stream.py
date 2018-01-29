@@ -5,6 +5,8 @@ m.next(1) = 1
 m.next(10) = (1 + 10) / 2
 m.next(3) = (1 + 10 + 3) / 3
 m.next(5) = (10 + 3 + 5) / 3
+
+也是利用了减的那个思想
 '''
 from collections import deque
 class MovingAverage:

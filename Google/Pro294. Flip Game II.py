@@ -2,6 +2,8 @@
 接上题的flip游戏
 判断先手是否一定能赢
 
+这种游戏对于两个人是一样的
+
 思路：
 backtracking
 或者dp+dict

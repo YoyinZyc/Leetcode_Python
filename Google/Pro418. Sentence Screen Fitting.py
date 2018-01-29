@@ -28,13 +28,13 @@ class Solution(object):
         for i in range(rows):
             # 加上一行的长度
             start += cols - 1
-            # 如果这一行最后一列对应的是' ': start+1
+            # 如果这一行最后一列对应的是' ': start+1 case1
             if s[start % len(s)] == ' ':
                 start += 1
-            # 如果这一行最后一列的下一个对应的是' ':start+2
+            # 如果这一行最后一列的下一个对应的是' ':start+2  case2
             elif s[(start + 1) % len(s)] == ' ':
                 start += 2
-            # 如果都不是，则说明最后一列对应的是在一个单词的中间，需要go back找到前一个空格
+            # 如果都不是，则说明最后一列对应的是在一个单词的中间，需要go back找到前一个空格    case3
             else:
                 while start > 0 and s[ (start - 1) % len(s) ] != ' ':
                     start -= 1

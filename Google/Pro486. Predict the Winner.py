@@ -1,6 +1,6 @@
 '''
 题意：
-两个玩家，每个玩家可以从当前数列的首尾选一个数字，不可放回
+两个玩家，每个玩家可以从当前数列的首尾选一个数字，不可放回，和大的是winner
 要求看player1可不可以是winner
 
 平局也算winner
@@ -17,6 +17,7 @@ class Solution:
         :rtype: bool
         """
         n = len(nums)
+        # DP里面存储的差值p1-p2
         dp = [[0] * n for _ in range(n)]
         for i in range(n):
             dp[i][i] = nums[i]

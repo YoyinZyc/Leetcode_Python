@@ -31,6 +31,7 @@ class Solution(object):
         i = 1
         while i < len(record):
             # 如果重合
+            # record[i][0]在record[-1]之间
             if record[i][0] >= record[i - 1][0] and record[i][0] <= record[i - 1][1]:
                 record[i - 1][1] = max(record[i - 1][1], record[i][1])
                 record.pop(i)

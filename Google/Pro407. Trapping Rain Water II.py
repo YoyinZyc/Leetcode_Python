@@ -1,6 +1,7 @@
 '''
 用PriorityQueue+BFS
 有一个visit数组
+n^2logn
 '''
 from queue import PriorityQueue
 

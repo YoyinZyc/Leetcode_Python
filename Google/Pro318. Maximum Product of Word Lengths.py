@@ -6,7 +6,7 @@ The two words can be "abcw", "xtfn"
 要求这两个word中的字符不能有重复
 
 思路：
-bit_manipulation
+bit_manipulation 与运算
 把每一个word转换为bit
 注意一个word钟有重复字符的情况，要用set去重
 '''

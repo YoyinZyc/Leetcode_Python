@@ -1,5 +1,6 @@
 '''
 线段树
+Segment Tree
 用于解决区间问题
 
 如果要写区间更新的方法，tree里面存储index

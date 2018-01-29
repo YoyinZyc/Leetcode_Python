@@ -33,12 +33,14 @@ class Solution:
                     hs.append(t)
                 if t < 60:
                     ms.append(t)
-
+        # 分钟时钟都是最大的
         if max(hs) <= h and max(ms) <= m:
             return str(min(hs)).zfill(2) + ':' + str(min(ms)).zfill(2)
+        # 分钟最大
         elif max(ms) <= m:
             # hs.sort()
             return str(hs[hs.index(h) + 1]).zfill(2) + ':' + str(min(ms)).zfill(2)
+        # 其他，改分钟就行了
         else:
             # ms.sort()
             return str(h).zfill(2) + ':' + str(ms[ms.index(m) + 1]).zfill(2)

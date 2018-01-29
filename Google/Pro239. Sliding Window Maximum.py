@@ -18,6 +18,7 @@ Therefore, return the max sliding window as [3,3,5,5,6,7].
 思路：
 用deque双向
 O(n)
+确保窗口最左侧一定是最大，每次加入新元素的时候都要比较
 '''
 from collections import deque
 class Solution(object):
@@ -32,7 +33,7 @@ class Solution(object):
                 d.pop()
             # 把新的数字加进去
             d += i,
-            # 如果队列首是要最左边的要离开的数，pop出left
+            # 如果队列首是要最左边的要离开的数，pop出left，可能在前一步已经pop了
             if d[0] == i - k:
                 d.popleft()
             # 如果i>=k-1意味已经有了窗口

@@ -40,6 +40,7 @@ class Solution(object):
                     if num <= k: ans = max(ans, num)
                     # 二分法查找num-k的位置左边的那一个
                     i = bisect.bisect_left(slist, num - k)
+                    # 如果i不是最后一个，说明前面有负数让他更大或者有让他不超过k
                     if i != len(slist): ans = max(ans, num - slist[i])
                     # 二分插入
                     bisect.insort(slist, num)

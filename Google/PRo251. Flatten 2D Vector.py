@@ -8,7 +8,8 @@ Given 2d vector =
   [3],
   [4,5,6]
 ]
-By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: [1,2,3,4,5,6].
+By calling next repeatedly until hasNext returns false, the order of elements returned by next should be:
+[1,2,3,4,5,6].
 
 思路：
 注意可能有这样的输入[[],[]], 所以在init方法里要排除空

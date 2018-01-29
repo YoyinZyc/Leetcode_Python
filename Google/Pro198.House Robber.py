@@ -46,6 +46,7 @@ class TreeNode:
 Follow-up2:
 二叉树
 这个是DFS，不是DP
+n^2
 '''
 class Solution:
     def rob(self, root):

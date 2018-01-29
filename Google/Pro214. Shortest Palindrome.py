@@ -1,3 +1,7 @@
+'''
+题意：
+往s前面加前缀，直到s是一个palindrome
+'''
 class Solution:
     def shortestPalindrome(self, s):
         """
@@ -19,6 +23,7 @@ class Solution:
             return True
 
         i = (len(s) - 1) // 2
+        # 变换中心
         while i >= 0:
             if s[i] == s[i + 1]:
                 if (check(i - 1, i + 2)):

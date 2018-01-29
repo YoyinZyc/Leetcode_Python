@@ -22,6 +22,7 @@ Output : False;
 
 '''
 def Toeplitz(m):
+    # 检查行
     for i in range(len(m)):
         x = i+1
         j = 1
@@ -31,6 +32,7 @@ def Toeplitz(m):
                 return False
             x+=1
             j+=1
+    # 检查列
     for i in range(1,len(m[0])):
         y = i+1
         j = 1

@@ -2,7 +2,19 @@
 接上题，这回要求算一共要走过多少个格子
 
 思路：
+和1几乎一样，Queue换成PQ
 要用priorityqueue，按照路径最短的排序
+
+Time complexity : O(m*n*max(m,n))O(m∗n∗max(m,n)).
+Time complexity : O(m*n*\text{max}(m,n))O(m∗n∗max(m,n)).
+Complete traversal of maze will be done in the worst case.
+Here, mm and nn refers to the number of rows and columns of the maze.
+Further, for every current node chosen, we can travel upto a maximum depth
+of \text{max}(m,n)max(m,n) in any direction.
+
+Space complexity : O(mn)O(mn). queuequeue size can grow upto m*nm∗n in the worst case.
+
+
 '''
 from queue import PriorityQueue
 class Solution(object):

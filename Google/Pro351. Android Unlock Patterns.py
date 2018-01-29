@@ -25,6 +25,7 @@ class Solution(object):
                 return
             for v in range(1, 10):
                 if v not in path:
+                    # 中间路过了一个key，且key不在path里
                     if not ((path[-1], v) in pass_record and pass_record[(path[-1], v)] not in path):
                         # 相关的record递增
                         record[len(path)] += 1

@@ -4,6 +4,12 @@
 
 思路:
 BFS
+Time complexity : O(mn)O(mn).
+Complete traversal of maze will be done in the worst case. Here,
+ mm and nn refers to the number of rows and coloumns of the maze.
+
+Space complexity : O(mn)O(mn).
+visitedvisited array of size m*nm∗n is used and queuequeue size can grow upto m*nm∗n in worst case.
 '''
 class Solution:
     def hasPath(self, maze, start, destination):

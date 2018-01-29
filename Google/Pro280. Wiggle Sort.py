@@ -8,6 +8,7 @@ For example, given nums = [3, 5, 2, 1, 6, 4], one possible answer is [1, 6, 2, 5
 1.  先sort，然后两个两个一组交换
 2.  one pass，如果当前是偶数位且当前的数字比前一个小，交换当前位置与前一个
             如果当前是奇数位且当前的数字比前一个大，交换当前位置与前一个
+            O(n)
 '''
 class Solution:
     def wiggleSort(self, nums):

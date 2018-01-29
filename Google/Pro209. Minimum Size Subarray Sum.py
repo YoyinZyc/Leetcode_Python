@@ -3,6 +3,7 @@
 
 follow-up：
 有负数
+如果有负数，我觉得可以按照负数把数组分成多段
 
 '''
 class Solution:

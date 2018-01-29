@@ -139,7 +139,7 @@ class Solution(object):
     def calcEquation(self, equations, values, queries):
 
         graph = {}
-
+        # 和DFS一样的建图
         def build_graph(equations, values):
             def add_edge(f, t, value):
                 if f in graph:

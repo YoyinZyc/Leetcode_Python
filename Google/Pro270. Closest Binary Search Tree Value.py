@@ -3,6 +3,7 @@
 找到BST中和target最接近的数字
 注意这个target是float类型的
 
+本质是遍历BST
 '''
 # Definition for a binary tree node.
 # class TreeNode:

@@ -11,6 +11,9 @@ Since the third round will generate the final winner, you need to output the ans
 
 思路：
 递归
+最外层：1，2
+下一层：1，4     2，3
+下一层：1，8  4，5    2，7  3，6
 '''
 class Solution(object):
     def findContestMatch(self, n):

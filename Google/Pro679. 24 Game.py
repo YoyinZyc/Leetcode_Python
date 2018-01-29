@@ -4,6 +4,7 @@
 然后分两种情况
 有括号和没有
 要注意精度问题
+There is a hard limit of 9216 possibilities
 sys.float_info.epsilon
 '''
 
